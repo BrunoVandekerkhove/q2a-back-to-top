@@ -2,7 +2,7 @@
 Back to top button for Question2Answer
 =================================================
 
-This is a plugin for [Question2Answer](http://www.question2answer.org). It adds a 'back to top' button to every page so that the user can scroll to the top if he scrolled down far enough.
+This is a plugin for [Question2Answer](http://www.question2answer.org). It adds a 'back to top' button to every page so that the user can scroll to the top if he/she scrolled down far enough.
 
 
 Installation & Usage
